@@ -1,0 +1,2 @@
+if(canClick)
+	++ global.process;

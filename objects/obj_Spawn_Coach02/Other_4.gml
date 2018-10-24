@@ -1,0 +1,1 @@
+audio_play_sound(sound_birds, 0, 0);
